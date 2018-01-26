@@ -6,3 +6,5 @@ var name = prompt('Enter your name');
 alert('Hello, ' + name);
 */
 console.log('Hello, ' + name);
+
+//As you can see, the welcome message doesn't pop up anymore
